@@ -1,0 +1,5 @@
+tensorflow
+tensorflow-hub==0.7.0
+pillow
+selenium
+face_recognition
