@@ -1,3 +1,5 @@
+This code can help you to find that given URL is safe or not safe to use.In this code you need to set your URL wherein it will scrapped all images from the page and basis on the images , it calculate the percantage for all scapped images and gives you an estimate propability of percentage where URL is safe or not.
+
 
 Command to run :
 
